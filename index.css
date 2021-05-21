@@ -17,6 +17,10 @@ body{
 	text-decoration: none;
 }
 
+.github :hover{
+	color: #A0A0A0;
+}
+
 .linkedin :hover{
 	color: #2977c9;
 }
